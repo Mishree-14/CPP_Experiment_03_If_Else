@@ -25,6 +25,9 @@ int main() {
     else if (x<0 && y>0){
         cout<< "2nd Quadrant" << "\n";
     }
+     else if (x=0 && y=0){
+        cout<< "Origin" << "\n";
+    }    
     else{
         cout<< "Invalid input! "<< "\n";
     }
