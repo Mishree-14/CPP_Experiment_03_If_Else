@@ -62,5 +62,12 @@ Grade A+
 ```
 #### Quadrant Finder
 ```
-
+Value for x: 7
+Value for y: -4
+4th Quadrant
+```
+```
+Value for x: 0
+Value for y: 0
+Origin
 ```
