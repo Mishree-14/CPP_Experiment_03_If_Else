@@ -29,15 +29,15 @@ else if statement checks another condition if the first if is false.
 
 else statement runs when none of the if or else if conditions are true.
 
-Conditions are written inside parentheses () after if, else if.
+Conditions are written inside parentheses `()` after if, else if.
 
-Code to run under each condition is placed inside curly braces {}.
+Code to run under each condition is placed inside curly braces `{}`.
 
 We can compare values using relational operators:
-`>` (greater than), < (less than), >=, <=, == (equal), != (not equal)
+`>` (greater than), `<` (less than), `>=`, `<=`, `==` (equal), `!=` (not equal)
 
 Logical operators help join conditions:
-&& (AND), || (OR), ! (NOT)
+`&&` (AND), `||` (OR), `!` (NOT)
 
 These statements help create flexible programs that can behave differently for different inputs.
 
