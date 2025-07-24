@@ -34,7 +34,7 @@ Conditions are written inside parentheses () after if, else if.
 Code to run under each condition is placed inside curly braces {}.
 
 We can compare values using relational operators:
- > (greater than), < (less than), >=, <=, == (equal), != (not equal)
+`>` (greater than), < (less than), >=, <=, == (equal), != (not equal)
 
 Logical operators help join conditions:
 && (AND), || (OR), ! (NOT)
