@@ -18,6 +18,39 @@ Understand the use of relational operators like >, <, >=, <=.
 
 Use logical operators like &&, ||, ==.
 
+## Theory
+Decision-making statements help the program decide what to do based on a condition (true or false).
+
+The most common statements used are if, else if, and else.
+
+if statement runs a block of code only if the condition is true.
+
+else if statement checks another condition if the first if is false.
+
+else statement runs when none of the if or else if conditions are true.
+
+Conditions are written inside parentheses () after if, else if.
+
+Code to run under each condition is placed inside curly braces {}.
+
+We can compare values using relational operators:
+> (greater than), < (less than), >=, <=, == (equal), != (not equal)
+
+Logical operators help join conditions:
+&& (AND), || (OR), ! (NOT)
+
+These statements help create flexible programs that can behave differently for different inputs.
+
+Used in real-life examples like:
+
+Checking grades
+
+Classifying numbers
+
+Finding coordinate positions (like quadrant)
+
+These decision-making statements are essential for all programs that need to make choices.
+
 ## Program Description
 ### Syntax and Flow
 First, we declare variables to store user inputs like marks, x, y, etc.
